@@ -1,0 +1,5366 @@
+{
+    "Dil ghabra raha hai": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Seena jal raha": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Dil doob raha": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "BP high/low": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Heart beat tez": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Seene mein bojh": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Gas ka dard": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Ghabrahat": {
+        "clinical": "MI; angina; arrhythmia; hypertension",
+        "system": "Cardiovascular system",
+        "specialty": "Cardiology",
+        "risk_note": "Cardiac pain mistaken for acidity or anxiety"
+    },
+    "Dum ghut raha": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest heavy": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Khansi ruk nahi rahi": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Balgham zyada": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Nazla neeche utar gaya": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Allergy ho gayi": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Wheezing sound": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breathing fast": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Raat ko saans problem": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Letne me saans band": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Inhaler ki aadat": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Asthma attack": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Oxygen kam": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Hawa kam mil rahi": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Seene se awaaz": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Dry cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Bloody cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest infection": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Flu se saans": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Smoke se problem": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Dust se problem": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Walking me saans": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Talking me saans": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Tight chest": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Pain breathing": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Deep breath nahi hoti": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breath short": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest burning": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Fever with cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Night cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Morning phlegm": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Lung weak": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Oxygen lagana pada": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "TB ka shuba": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Pneumonia fear": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "COPD patient": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest blockage": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breathing noisy": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breathless": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Suffocation": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest pain cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Infection wapas aata": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Long cough": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Sinus to chest": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Throat to lungs": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breath stops": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Faint feeling": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Airway narrow": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Lung allergy": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest swelling": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Blue lips": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Rapid breathing": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Shallow breathing": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Night wheeze": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Weather problem": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Cold air pain": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Smoke sensitivity": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Exercise breathless": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest fatigue": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Lung pressure": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Breath anxiety": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Oxygen level down": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Chest crackling": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Lung sound": {
+        "clinical": "Dyspnea; COPD; pneumonia; hypoxia",
+        "system": "Respiratory system",
+        "specialty": "Pulmonology",
+        "risk_note": "Respiratory infection confused with cold"
+    },
+    "Thakan zyada": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Sugar control nahi": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "BP issue": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Infection ho gaya": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Bukhar bar bar": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Weight loss": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Weight gain": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Appetite kam": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pait kharab": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Vomiting": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Loose motion": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Body pain": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Joint pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Fever long": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Night sweating": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Chakkar": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Behoshi": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Nausea": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Headache": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Cold lagta": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Heat lagta": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Body numb": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Tingling": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Swelling body": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Paani bhar gaya": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Urine kam": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Urine zyada": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Chest pain general": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Palpitations": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Anemia doubt": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Khoon ki kami": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Infection fear": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Viral lag gaya": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Typhoid doubt": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Dengue doubt": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Malaria doubt": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Sepsis fear": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Body break": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Low immunity": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Weak digestion": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Liver weak": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Kidney weak": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Hormone problem": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Thyroid doubt": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Electrolyte imbalance": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Dehydration": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Appetite loss": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Sleep problem": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Stress sickness": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Chronic fatigue": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Body heaviness": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Drowsy": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Confusion": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Memory low": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Skin pale": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Breath smell": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Muscle wasting": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Fever unknown": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Infection spread": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Body shaking": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Low energy": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Slow recovery": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Multisystem pain": {
+        "clinical": "Hyperglycemia; sepsis; renal dysfunction",
+        "system": "Multi-system metabolic + infectious",
+        "specialty": "Internal Medicine",
+        "risk_note": "Vague systemic disease presentation"
+    },
+    "Sar bhaari": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Lakva": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Haath sunn": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Pair sunn": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Balance kharab": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Gir jata hoon": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Fits aaye": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Memory weak": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Bolne me dikkat": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Zaban ulajhna": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Aankh tedhi": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Face tedha": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Body weak": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Burning nerve": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Jhatke": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Muscle twitch": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Head pressure": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Migraine": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Light se dard": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Noise se dard": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Neck stiff": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Vision blur": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Double vision": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Slow thinking": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Hands shaking": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Tremor": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Parkinson doubt": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Stroke doubt": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Paralysis fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Head injury": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Numb tongue": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Loss of control": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Urine control nahi": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Sleep attack": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Fainting": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Dizziness": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Brain fog": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Speech slur": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Memory blackout": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Coordination problem": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Walking crooked": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Sudden weakness": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "One side pain": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Head spinning": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Aura": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Sensation loss": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Electric shock pain": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Facial pain": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Jaw numb": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Arm drop": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Leg drag": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Nerve compression": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sciatic nerve pain": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Nerve burning": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Brain tired": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Slow reflex": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Muscle stiffness": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Night fits": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Head heaviness": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Fear stroke": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Fear seizure": {
+        "clinical": "Stroke; seizure; neuropathy",
+        "system": "Brain & nervous system",
+        "specialty": "Neurology",
+        "risk_note": "Dizziness used for multiple etiologies"
+    },
+    "Tezabiyat": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pait dard": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Ulti": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Motion loose": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Constipation": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Bloating": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Jigar ka masla": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Acidity": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Heartburn": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Black stool": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Blood in stool": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pait phool gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Food hazam nahi": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Khana atak gaya": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Burping zyada": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Stomach burning": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Stomach tight": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "IBS problem": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Hepatitis doubt": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Jaundice fear": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Yellow eyes": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Dark urine": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Fatty liver": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain after food": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain empty stomach": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Cramp": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Diarrhea": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Vomit blood": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Acid reflux": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Chest burn": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Gut pain": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Indigestion": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Food poisoning": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Parasite fear": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Worms in stool": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Abdomen swelling": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Fluid in belly": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Gastritis": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Ulcer doubt": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Bowel problem": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Stool color change": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Smelly stool": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain right side": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain left side": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain upper abdomen": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Pain lower abdomen": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Fullness": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Gas pressure": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Digestive weakness": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Hunger pain": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Vomit smell": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Loose stomach": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Tight stomach": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Abdominal heaviness": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Burning gut": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Bitter mouth": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Sour taste": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Frequent stool": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Stool urgency": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Gut infection": {
+        "clinical": "GERD; gastritis; hepatitis; IBS",
+        "system": "Digestive system",
+        "specialty": "Gastroenterology",
+        "risk_note": "Gas often masks cardiac symptoms"
+    },
+    "Thyroid ka masla": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Sugar hai": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Hormone disturb": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Weight change": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Energy low": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Hair fall": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "sugar hai": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Weight barh gaya": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Weight kam ho gaya": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Pasina zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Thand zyada lagti": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Garmi bardasht nahi": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Haath kaanpte": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Dil tez dhak dhak": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Skin dry": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Skin oily": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Face swelling": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Pairon mein sujan": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Peshab zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Pyaas zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Bhook zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Bhook kam": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Neend zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Neend kam": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Mood change": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Irritation": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Focus kam": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Periods disturb": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Infertility doubt": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "PCOS doubt": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Body heat zyada": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Cold intolerance": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Goiter doubt": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Neck swelling": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Muscle weakness": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bone weakness": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Numbness": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Sugar drop": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Sugar spike": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Sweating attack": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Shaking": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Slow healing": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Wound nahi bharta": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Frequent infection": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Libido low": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Sexual weakness": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Voice change": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Facial hair": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Acne problem": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Dark skin patches": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Stretch marks": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Breast discharge": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Hormone injection fear": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Insulin fear": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Tablet dependency": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Diet confusion": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Exercise doubt": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Metabolic problem": {
+        "clinical": "Thyroid disorders; diabetes",
+        "system": "Hormonal system",
+        "specialty": "Endocrinology",
+        "risk_note": "Self diagnosis without testing"
+    },
+    "Peshaab mein jalan": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Paani ruk gaya": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Urine problem": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Peshaab kam": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Peshaab zyada": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Peshaab ruk ruk ke": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Body sujan": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Aankhon ke gird sujan": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Blood in urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Jhaagdar urine": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Urine smell": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Kidney pain": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Back pain": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Side pain": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Stone pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pathri ka dard": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Burning urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "UTI doubt": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Fever with urine pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Vomiting with pain": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "High BP kidney": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Dialysis fear": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Kidney fail ho rahi": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Creatinine high": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Filter kamzor": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Body toxins": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Weak urine flow": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Night urine": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Bedwetting adult": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Urine leak": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Frequent urination": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Thirst problem": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Loss of appetite": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Fatigue": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Pale face": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Itching body": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Metallic taste": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Swelling hands": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Leg swelling": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Short breath": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Chest pressure": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Muscle cramp": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Bone pain": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Weak immunity": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Infection repeat": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Blood test fear": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Dialysis pain": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Transplant fear": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Fluid overload": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Urine color change": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Kidney blockage": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "Bladder pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Urine retention": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Kidney tension": {
+        "clinical": "Renal failure; uremia",
+        "system": "Kidneys & urinary filtration",
+        "specialty": "Nephrology",
+        "risk_note": "UTI confused with kidney failure"
+    },
+    "No": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Patient Idiom Expression": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Haddi khisak gayi": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Nas chadh gayi": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Ghutna dard": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Waist pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Shoulder pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Muscle pull": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Injury pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Swelling joint": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Walking difficulty": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Standing pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sitting pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Arthritis pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Fracture fear": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Fall injury": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sports injury": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Nerve pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Leg weakness": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Hand weakness": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Finger numb": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Foot numb": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Body stiffness": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Movement restriction": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sprain ho gaya": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Posture pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Spine pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Disc problem fear": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sciatica pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Bone cracking": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Aging joint pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Osteoporosis fear": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Cartilage weak": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Walking imbalance": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Climbing stairs pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Post exercise pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Overwork pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Physical strain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Body fatigue pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Accident pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Chronic pain": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Swelling muscle": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Tendon strain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Joint locking": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Post surgery pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Bone crack sound": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sharp pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Dull pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Burning pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Throbbing pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Sudden pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Morning stiffness": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Cold weather pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Weak grip": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Post trauma pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Rehabilitation pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Physical therapy pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Mobility fear": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Balance problem": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Body alignment pain": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Muscle fatigue": {
+        "clinical": "Fracture; arthritis; ligament tear",
+        "system": "Bones joints muscles",
+        "specialty": "Orthopedics",
+        "risk_note": "Cultural anatomy misinterpretation"
+    },
+    "Periods masla": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Periods late": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Periods zyada": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Periods kam": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pregnancy doubt": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Bacha thehar nahi raha": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "White discharge": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Back pain pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Weakness pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Morning sickness": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Vomiting pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Breast pain": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Breast swelling": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Hormones disturb": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Mood change pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Fertility problem": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Conceive nahi ho raha": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Delivery fear": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Labor pain": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Bleeding pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Spotting problem": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "PCOS problem": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Ovaries problem": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Uterus weakness": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Bachadani ka masla": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Infertility tension": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pregnancy weakness": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Water break doubt": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Baby movement low": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Baby movement high": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pelvic pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Cramps period": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Irregular cycle": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Bleeding zyada": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pain during intercourse": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Itching private area": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Infection doubt": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Vaginal discharge smell": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Urine burning female": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Delivery delay": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pregnancy test doubt": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Family planning concern": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Miscarriage fear": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Contraception confusion": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Breastfeeding pain": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Milk low": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Post delivery weakness": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Postpartum depression feel": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Body recovery slow": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Hormone imbalance feel": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Fatigue pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Swollen legs pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "BP problem pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Sugar pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Thyroid pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Fetal health worry": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Ultrasound doubt": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Baby health fear": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Pregnancy stress": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Emotional pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Sleep problem pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Body heat pregnancy": {
+        "clinical": "PCOS; miscarriage; preeclampsia",
+        "system": "Female reproductive system",
+        "specialty": "Obstetrics & Gynecology",
+        "risk_note": "Euphemistic reproductive reporting"
+    },
+    "Bacha kamzor hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Nazar lag gayi": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha thanda ho gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha ro raha hai zyada": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bhook nahi lag rahi": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Pet mein keera hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bukhar utar nahi raha": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha sust hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Development slow hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha doodh nahi pee raha": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Vomiting ho rahi": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Diarrhea ho gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha chounk jata hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Neend disturb hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Chest infection lag raha": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Khansi zyada hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Flu ho gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Immunity weak hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Teeth nikal rahe hain": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Raat ko rota hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Fever high hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Body warm hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha silent ho gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Body pain lagta hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Vomit milk kar raha": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Gas ho gayi": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Motion problem": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha weak lag raha": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Skin rash ho gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Cold lag gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Nose block": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Sneezing zyada": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Crying nonstop": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha lethargic hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Weight gain slow": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Weight loss child": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Appetite low": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Throat infection": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Tonsil problem": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Ear pain child": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Ear discharge": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Cough with phlegm": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Chest tight child": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Fever with shivering": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Dehydration fear": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Urine burning": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Yellow skin child": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Weak baby": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Growth concern": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Walking delay": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Talking delay": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Learning slow": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Virus lag gaya": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha sensitive": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Vaccine reaction fear": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Bacha upset hai": {
+        "clinical": "Neonatal infection; jaundice",
+        "system": "Child health",
+        "specialty": "Pediatrics",
+        "risk_note": "Cultural illness attribution delays treatment"
+    },
+    "Tension hai": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Stress zyada": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Depression feel": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Dil udaas": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Weham ho raha": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Dar lagta": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Panic attack": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Neend nahi aati": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Overthinking": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Mental pressure": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Mood kharab": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Emotional breakdown": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Loneliness": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Social fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Anxiety hai": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Heart racing": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Breathing difficulty anxiety": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Body shaking fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Restlessness": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Mind blocked": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Sad without reason": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Irritation zyada": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Anger control nahi": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Forgetfulness": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Concentration problem": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Mental burden": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Life pressure": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Family tension": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Financial stress": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Sleep disturbance": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Night fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Bad dreams": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Trauma recall": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Past fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Isolation feel": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Hopelessness": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Suicide thoughts": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Emotional pain": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Heart heavy feel": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Crying spells": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Personality change": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Behaviour change": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Hallucination fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Voices sunai deti": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Reality confusion": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Paranoia feel": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Trust problem": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Relationship stress": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Marriage pressure": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Work stress": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Exam anxiety": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Performance fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Social judgement fear": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Shame feeling": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Guilt feeling": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Self esteem low": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Emotional numb": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Personality pressure": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Life meaning doubt": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Motivation low": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Psychosomatic pain": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Head pressure stress": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Body heaviness emotional": {
+        "clinical": "Depression; anxiety; psychosis",
+        "system": "Mental health",
+        "specialty": "Psychiatry",
+        "risk_note": "Somatization of mental illness"
+    },
+    "Khujli": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Allergy": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Daad": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin infection": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Red patches": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "White spots": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Black spots": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Pimples": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Acne": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Face marks": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Dark circles": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin burning": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin peeling": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Dry skin": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Oily skin": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Dandruff": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Bald patch": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Nail weak": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Nail color change": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Fungal infection": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Ringworm": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Scabies": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Itching night": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin thick": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin thin": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Wrinkles early": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Pigmentation": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Sun allergy": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Heat rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Sweat rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Blisters": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Pus pimples": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin swelling": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Painful rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin crack": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Foot crack": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Heel crack": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Mouth ulcers": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Lip cracking": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Genital itching": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Private rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Scar problem": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Wound marks": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Burn marks": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Hair thinning": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Eyebrow loss": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Eyelash loss": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Beard patch": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin numb": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin tight": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin loose": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Itchy scalp": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Red face": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin smell": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Color uneven": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin allergy food": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Cosmetic reaction": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Soap reaction": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Cream reaction": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Chronic itching": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Recurrent rash": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Skin tension": {
+        "clinical": "Dermatitis; fungal infection",
+        "system": "Skin",
+        "specialty": "Dermatology",
+        "risk_note": "All skin disease labeled allergy"
+    },
+    "Ganth hai": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Cancer shuba": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Soojan hai": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Bhook nahi lagti": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Zakhm nahi bharta": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Khoon aa raha": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Bleeding bina wajah": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Awaz bhari": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Khansi band nahi": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Ulti me khoon": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Stool me khoon": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Breast ganth": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Neck ganth": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Underarm ganth": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Hard lump": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Size barh rahi": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Skin color change": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Mole badal gaya": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Fever roz": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Mouth ulcer": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Difficulty swallowing": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Headache roz": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Vision change": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Chest pain": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Breathlessness": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Liver swelling": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Ascites": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Jaundice": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Wound smell": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Pus discharge": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Blood tests fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Biopsy fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Chemo fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Radiation fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Operation fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Death fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Family history cancer": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Tumor doubt": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Spread ho gaya": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Metastasis fear": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Pain control problem": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Anxiety": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Weakness extreme": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Bedridden": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Weight loss rapid": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Swelling face": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Cancer tension": {
+        "clinical": "Malignancy; metastasis",
+        "system": "Cancer-related systems",
+        "specialty": "Oncology",
+        "risk_note": "Fear prevents early diagnosis"
+    },
+    "Jalan": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Weak stream": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Raat ko peshab": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Urine drop by drop": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Control nahi": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Prostate problem": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Testicle pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Scrotum swelling": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Penis pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pathri": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Lower abdomen pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Erectile problem": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Night discharge": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Early discharge": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Semen kam": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Semen thin": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "White discharge male": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Smelly urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Cloudy urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Dribbling urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Sudden urge": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Hesitancy": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Straining urine": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pain during urination": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pain after urination": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Kidney to bladder pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Tight foreskin": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Swelling penis": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Burning semen": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pain ejaculation": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "STD fear": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Surgery fear": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Catheter problem": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Urinary blockage": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Narrow pipe": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Flow slow": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Split stream": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Weak bladder": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Bladder drop": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Bladder infection": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Prostate swelling": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Testis lump": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Groin pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Lower back pain": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Pelvic heaviness": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Fertility tension": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Sexual tension": {
+        "clinical": "UTI; prostate disease",
+        "system": "Urinary + male reproductive",
+        "specialty": "Urology",
+        "risk_note": "Embarrassment limits disclosure"
+    },
+    "Nazla": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Gala kharab": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Kaan beh raha": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Hearing weakNazla": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Gala dard": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Kaan dard": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Hearing kam": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Sunai kam deta": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Kaan band": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Seeti awaaz": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Chakkar kaan se": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Naak band": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Naak beh rahi": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Sinus pain": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Face pain": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Throat burning": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Khansi": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Voice baith gayi": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Bolne me dard": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Nigalne me dard": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Food atakta": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Tonsil swelling": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Fever with throat": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Pus throat": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Mouth smell": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Naak se khoon": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Allergy nose": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Sneezing": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Post nasal drip": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Smell kam": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Taste kam": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear buzzing": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear pressure": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Water in ear": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Itching ear": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear infection": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear swelling": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Jaw pain": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "TM joint pain": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Neck gland": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Lymph node swelling": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Hoarseness": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Voice loss": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Throat lump feel": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Dry throat": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Burning nose": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Blocked sinus": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Chronic cold": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Night snoring": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Sleep apnea doubt": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Mouth breathing": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Bad breath": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear crack sound": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear fullness": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Head echo": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ringing sound": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Throat ulcer": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "White patches throat": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Difficulty hearing TV": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear trauma": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Foreign body nose": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Foreign body ear": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Ear bleeding": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Nose pain": {
+        "clinical": "Sinusitis; otitis media",
+        "system": "Ear nose throat",
+        "specialty": "ENT",
+        "risk_note": "Nazla used for multiple diseases"
+    },
+    "Nazar kamzor": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Ankhon pe parda": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Dhundli nazar": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye pain": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Aankhon pe parda": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Aankh jal rahi": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Aankh laal": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Pani aa raha": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Allergy eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Andhera zyada": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Raat ko nazar kam": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Tirchi nazar": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Chamak dikhna": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Kale daag": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Safed daag": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Aankh bhaari": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Pressure feel": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Sar dard eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Reading problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Screen se dard": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Headache with eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye swelling": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye discharge": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Pus eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Sticky eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Dry eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Watering eyes": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Foreign body": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Retinal problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Cataract doubt": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Glaucoma fear": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Lens problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Blind spot": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Tunnel vision": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Floaters": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Flash light": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Vision loss": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Sudden blindness": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye trauma": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Chemical in eye": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Burning sensation": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye fatigue": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Weak eyesight": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Night blindness": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Color problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Reading close": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Distance blur": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Glasses number change": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye twitch": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Lid droop": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Squint": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Child eye problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye pressure high": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Cornea problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye infection": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Conjunctivitis": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Tear duct block": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye itching": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Pain moving eye": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Swollen eyelid": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Eye redness": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Blinking problem": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    },
+    "Vision fear": {
+        "clinical": "Cataract; glaucoma",
+        "system": "Eyes",
+        "specialty": "Ophthalmology",
+        "risk_note": "Metaphors obscure serious eye disease"
+    }
+}
